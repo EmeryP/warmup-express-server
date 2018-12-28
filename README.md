@@ -1,5 +1,5 @@
 # Express-server
-Practice standing up an Express server
+A simple Express server with two routes
 
 ## Getting Started
 * Fork and clone this repo to your local machine
